@@ -141,5 +141,3 @@ You can freely use, distribute, and modify it with attribution.
 
 ---
 
-Would you like me to help you create a `.env.example`, sample Postman collection, or even deployment steps for Vercel + Render or another service?
->>>>>>> a8f4d9aae70dfe7bb5eb687ffbcaa7337b96f083
