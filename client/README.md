@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Client Project
 
 This is a **To-Do List Application** built using **React** and **Material UI** with a focus on priority task management. It also uses **Vite** for fast development and includes **toast notifications** for better user experience.
