@@ -136,8 +136,4 @@ You can freely use, distribute, and modify it with attribution.
 
 ---
 
-> ⭐ Don’t forget to star the repo if you like this project!
-```
-
----
 
